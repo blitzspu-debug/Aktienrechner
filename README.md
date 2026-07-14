@@ -1,2 +1,1 @@
-# Aktienrechner
-zu zählen
+
